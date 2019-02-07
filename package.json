@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "blowery-mono": "blowery/blowery-mono",
+    "blowery-mono": "blowery/blowery-mono#fileref-from-root",
     "react": "^16.8.1"
   }
 }
